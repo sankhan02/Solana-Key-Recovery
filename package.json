@@ -1,0 +1,19 @@
+{
+  "name": "solana-key-decoder",
+  "version": "1.0.0",
+  "description": "This project provides a simple Node.js script to decode Solana private keys or derive keys from mnemonics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana-key-decoder"
+  ],
+  "author": "Sana Ullah",
+  "license": "ISC",
+  "dependencies": {
+    "all": "^0.0.0",
+    "bip39": "^3.1.0"
+  },
+  "devDependencies": {}
+}
